@@ -3,10 +3,10 @@
 This project demonstrates manual API testing of RESTful services using CRUD operations 
 (Create, Read, Update, Delete) with Postman.
 
-The Restful Booker public API is used to validate core API functionalities such as request handling, 
+The Restful Booker public API is used to validate core API functionalities, including request handling, 
 response verification, authentication, status code validation, and error handling.
 
-The project includes:
+### The project includes:
 - Understanding and validating API contracts
 - Manual test cases for CRUD operations
 - Authentication using token-based authorization
@@ -16,4 +16,4 @@ The project includes:
 - Screenshots as execution evidence
 
 This project is designed to showcase practical API testing skills suitable for 
-Manual Tester / QA Engineer roles.
+Manual Tester and QA Engineer roles.
